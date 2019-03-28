@@ -1,0 +1,8 @@
+﻿  MyForm.cpp
+c:\users\mhdb9\desktop\project - copy\la_project\la_project\matrix.h(205): warning C4101: 'j': unreferenced local variable
+c:\users\mhdb9\desktop\project - copy\la_project\la_project\matrix.h(206): warning C4101: 'temp': unreferenced local variable
+c:\users\mhdb9\desktop\project - copy\la_project\la_project\matrix.h(453): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\mhdb9\desktop\project - copy\la_project\la_project\matrix.h(481): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\mhdb9\desktop\project - copy\la_project\la_project\matrix.h(567): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\mhdb9\desktop\project - copy\la_project\la_project\myform.cpp(7): warning C4007: 'WinMain': must be '__stdcall'
+LINK : fatal error LNK1104: cannot open file 'C:\Users\mhdb9\Desktop\Project - Copy\LA_project\Release\LA_project.exe'
